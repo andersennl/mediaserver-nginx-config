@@ -1,6 +1,6 @@
 # Mediaparser NGINX Config
 ## Description
-This is an example config used to serve a generated HTML file on a Raspberry Pi.
+This is an example config used to serve a HTML file on a Raspberry Pi to the browser.
 
 ## Usage
 ```shell
